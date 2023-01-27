@@ -10,8 +10,7 @@
  * communications for the purpose of saying "hey we're here!"
  * 
  * Permission is hereby granted to freely distribute, and re-use this code for whatever purpose, provided the above notice 
- * remains intact.  Good Luck!  If this code actually gets you noticed and cotacted by an E.T., please reach out:
- * john at wizworks dot net
+ * remains intact.  Good Luck!  
  * 
  */
 
