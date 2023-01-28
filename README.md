@@ -9,3 +9,4 @@ THeory Of Operation:
 ![](https://media.sciencephoto.com/image/r1600326/800wm)
 
 Anyone watching such a transmission on a spectrum waterfall would see a straight line representing the transmission broken up by the "prime delays".  This would create a simple repeating signal that has obvious artificial characteristics and would stand out from natural EM or background noise.  It would be an unmistakeable sign that the signal was of intelligent origin.  Because we only transmit for 2 seconds after each prime delay, transmitter duty cycle is kept exceptionally low, which allows for much higher power levels at much lower expense over time.
+![](https://nansupport.com/images/clearwaves/waterfall-800x275.png)
